@@ -35,13 +35,15 @@ At the time of 07/26/2025
 │ ├── hashSet.c
 │ ├── max_and_min_arr.c
 │ ├── time.c
-│ └── timer.h```
+│ └── timer.h
+```
 
 ## 🛠 How to Compile
 
 Use GCC to compile any file:
 
-```bash
+```
+bash
 gcc filename.c -o filename
 ./filename
 ```
